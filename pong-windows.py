@@ -44,8 +44,8 @@ ball.penup()
 ball.goto(0, 0)
 
 # play with these numbers
-ball.dx = 0.2
-ball.dy = 0.2
+ball.dx = 0.5
+ball.dy = 0.5
 
 
 # Pen 
